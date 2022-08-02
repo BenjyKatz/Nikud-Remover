@@ -9,3 +9,5 @@
 To add words to the dictionary, the addToDict program is used which takes a nikud and non nikud txt file and outputs a csv that can be used as a dictionary
 
 There are utility webscraping programs that were used to get specific Nikud and Non Nikud data from the internet.
+
+See the how to file for more details
